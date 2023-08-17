@@ -12,8 +12,8 @@ It's a react application created with vite environment.
 Styled with Tailwind CSS.
 
 ## Getting Started
-1. Download the repo in your local machine
-2. run the development server:
+1. Copy the repo in your local machine
+2. Run the development server:
 ```bash
 npm run dev
 # or
